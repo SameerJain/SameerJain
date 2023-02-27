@@ -1,10 +1,10 @@
 ### Hi there 👋
--🔭 I’m currently working on ...
-  -Python and Java Fundamentals
--🌱 I’m currently learning ...
-  -Systems Level Programming
-  -Dynamic Memory Allocation
-  -Emacs 
+- 🔭 I’m currently working on ...
+  - Python and Java Fundamentals
+- 🌱 I’m currently learning ...
+  - Systems Level Programming
+  - Dynamic Memory Allocation
+  - Emacs 
 - 📫 How to reach me: ...
   -Email: sameerjain501@gmail.com
   -Linkedin: https://www.linkedin.com/in/sameer-jain-a110b5235/
