@@ -6,8 +6,8 @@
   - Dynamic Memory Allocation
   - Emacs 
 - 📫 How to reach me: ...
-  -Email: sameerjain501@gmail.com
-  -Linkedin: https://www.linkedin.com/in/sameer-jain-a110b5235/
+  - Email: sameerjain501@gmail.com
+  - Linkedin: https://www.linkedin.com/in/sameer-jain-a110b5235/
  
 
 <!--
