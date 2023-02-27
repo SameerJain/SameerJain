@@ -13,6 +13,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SameerJain&show_icons=true&theme=tokyonight)
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SameerJain&theme=tokyonight" width="48%" >
+### Top Languages
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
 <!--
 **SameerJain/SameerJain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
