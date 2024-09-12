@@ -1,10 +1,10 @@
 ### Hi there 👋
 - 🔭 I’m currently working on ...
-  - Python and Java Fundamentals
+  - Full-Stack Web Apps
 - 🌱 I’m currently learning ...
-  - Systems Level Programming
-  - Dynamic Memory Allocation
-  - Emacs 
+  - Assembly
+  - Advanced Algorithms
+  - Vim 
 - 📫 How to reach me: ...
   - Email: sameerjain501@gmail.com
   - Linkedin: https://www.linkedin.com/in/sameer-jain-a110b5235/
