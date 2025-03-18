@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/SameerJain/SameerJain/blob/main/github-header-image (2).png" align="center" style="width: 100%" />
+<img src="https://github.com/SameerJain/SameerJain/blob/main/final.jpg" align="center" style="width: 100%" />
 </div>  
 
 ### <div align="center">I'm Sameer, a student & full-stack developer 👨‍💻 🚀</div>  
