@@ -4,7 +4,7 @@
 
 ### <div align="center">I'm Sameer, a student & full-stack developer 👨‍💻 🚀</div>  
 
-- 🔭 I'm currently working on our [Club Landing Page](https://github.com/SameerJain/soco-website)  
+- 🔭 I'm currently working on our [Club Landing Page](https://sameerjain.github.io/soco-website/)  
 - 🌱 I'm currently learning Vim Keybinds  
 - ❓ Ask me about anything related to AI current events  
 - ⚡ Fun fact: I think C++ is great!
