@@ -95,5 +95,5 @@
 ---
 
 <div align="center">
-  <em>UB "Do" or "Do Not," there is no "try" - Yoda </em>
+  <em>"Do" or "Do Not," there is no "try" - Yoda </em>
 </div>
