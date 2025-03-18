@@ -95,5 +95,5 @@
 ---
 
 <div align="center">
-  <em>UB Hacking's Hackathon Participant | Computer Science @ University at Buffalo (Expected May 2026)</em>
+  <em>UB "Do" or "Do Not," there is no "try" - Yoda </em>
 </div>
