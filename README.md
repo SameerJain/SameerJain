@@ -64,9 +64,6 @@
   - Assembled 61 C++ algorithm variations to sort data sets up to 50,000 elements
 
 ## 📈 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SameerJain&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SameerJain&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
