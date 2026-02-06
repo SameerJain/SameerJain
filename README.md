@@ -5,8 +5,8 @@
 ### <div align="center">I'm Sameer, a student & full-stack developer 👨‍💻 🚀</div>  
 
 - 🔭 I'm currently working on our [Club Landing Page](https://sameerjain.github.io/soco-website/)  
-- 🌱 I'm currently learning Vim Keybinds  
-- ❓ Ask me about anything related to AI current events  
+- 🌱 I'm currently learning Vim Keybinds
+- 💬 Ask me about anything related to AI current events
 - ⚡ Fun fact: I think C++ is great!
 
 ## My Skill Set  
@@ -66,7 +66,7 @@
 ## 📈 GitHub Stats  
 
 <div align="center">
-  (https://github-readme-stats.vercel.app/api?username=SameerJain)](https://github.com/SameerJain/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SameerJain)](https://github.com/SameerJain/github-readme-stats)
 </div>
 
 ## 👨‍💻 Experience
