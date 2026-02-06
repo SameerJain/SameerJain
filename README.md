@@ -10,7 +10,8 @@
 - ⚡ Fun fact: I think C++ is great!
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<div align="center">
+<table style="margin: 0 auto;"><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
@@ -43,7 +44,8 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 </div>
-</td></tr></table>  
+</td></tr></table>
+</div>
 
 ## 🔭 Featured Projects
 
