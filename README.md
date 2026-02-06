@@ -66,7 +66,7 @@
 ## 📈 GitHub Stats  
 
 <div align="center">
-  (https://github-readme-stats.vercel.app/api?username=SameerJain)](https://github.com/anuraghazra/github-readme-stats)
+  (https://github-readme-stats.vercel.app/api?username=SameerJain)](https://github.com/SameerJain/github-readme-stats)
 </div>
 
 ## 👨‍💻 Experience
