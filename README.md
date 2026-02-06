@@ -65,11 +65,6 @@
   - Project Manager (100% final grade) directing team priorities and engineering strategy
   - Assembled 61 C++ algorithm variations to sort data sets up to 50,000 elements
 
-## 📈 GitHub Stats  
-
-<div align="center">
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SameerJain)](https://github.com/SameerJain/github-readme-stats)
-</div>
 
 ## 👨‍💻 Experience
 
