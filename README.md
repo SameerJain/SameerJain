@@ -1,10 +1,11 @@
 <div align="center">
-<img src="https://github.com/SameerJain/SameerJain/blob/main/final.jpg"  style="width: 100%" />
+<img src="https://github.com/SameerJain/SameerJain/blob/main/final.jpg" style="width: 100%" />
 </div>  
 
 ### <div align="center">I'm Sameer, a student & full-stack developer 👨‍💻 🚀</div>  
 
 ## My Skill Set  
+<div align="center">
 <table><tr><td valign="top" width="33%">
 
 
@@ -58,6 +59,7 @@
 </div>
 
 </td></tr></table>  
+</div>
 
 <br/>  
 
