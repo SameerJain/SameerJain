@@ -1,10 +1,8 @@
 <div align="center">
-<img src="https://github.com/SameerJain/SameerJain/blob/main/final.jpg" align="center" style="width: 100%" />
+<img src="https://github.com/SameerJain/SameerJain/blob/main/final.jpg"  style="width: 100%" />
 </div>  
 
 ### <div align="center">I'm Sameer, a student & full-stack developer 👨‍💻 🚀</div>  
-
-- 🔭 I'm currently working on our [Club Landing Page](https://sameerjain.github.io/soco-website/)  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
