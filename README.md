@@ -1,7 +1,9 @@
 <div align="center">
 <img src="https://github.com/SameerJain/SameerJain/blob/main/final.jpg" style="width: 100%" />
 </div>  
-
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="900"/>
+</div>
 ## My Skill Set
 <div align="center">
   
