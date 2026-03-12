@@ -2,7 +2,7 @@
 <img src="https://github.com/SameerJain/SameerJain/blob/main/final.jpg" style="width: 100%" />
 </div>  
 
-### <div align="center">I'm Sameer, a student & full-stack developer 👨‍💻 🚀</div>  
+### <div align="center">I'm Sameer, a Software Engineer 👨‍💻 🚀</div>  
 
 ## My Skill Set
 
@@ -66,6 +66,23 @@
 - **Hackathon Leader & Workshop Secretary** at College of Staten Island (Apr 2022 – Jan 2023)
 - **Computer Lab Technician** at College of Staten Island (Aug 2022 – Jan 2023)
 - **I.T. Intern** at Staten Island Technical High School (Jun 2019 – Jun 2020)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SameerJain&style=flat-square&color=blue" />
+
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com?user=SameerJain&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameerJain&layout=compact&theme=tokyonight" height="150" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=SameerJain&show_icons=true&theme=tokyonight" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SameerJain&theme=tokyo-night" />
+</div>
 
 ## 📫 Connect with me  
 <div align="center">
