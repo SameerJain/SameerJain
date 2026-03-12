@@ -2,12 +2,9 @@
 <img src="https://github.com/SameerJain/SameerJain/blob/main/final.jpg" style="width: 100%" />
 </div>  
 
-### <div align="center">I'm Sameer, a Software Engineer 👨‍💻 🚀</div>  
-
 ## My Skill Set
-
 <div align="center">
-
+  
 **Languages**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white)
@@ -68,20 +65,12 @@
 - **I.T. Intern** at Staten Island Technical High School (Jun 2019 – Jun 2020)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SameerJain&style=flat-square&color=blue" />
-
   <br/><br/>
-
   <img src="https://streak-stats.demolab.com?user=SameerJain&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameerJain&layout=compact&theme=tokyonight" height="150" />
-
   <br/><br/>
-
   <img src="https://github-readme-stats.vercel.app/api?username=SameerJain&show_icons=true&theme=tokyonight" />
-
   <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SameerJain&theme=tokyo-night" />
 </div>
 
 ## 📫 Connect with me  
