@@ -36,25 +36,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
-
 </div>
-
 <br/>  
-
-## 🔭 Featured Projects
-
-- **Data Parser & Dashboard for Globalization Research** (Pandas, NumPy, Plotly, Dash)
-
-- **Dorm Mart - Campus Marketplace** (React, PHP, MySQL, Tailwind CSS)
-
-- **Society and Computing Club Website** (JavaScript, HTML, CSS)
-
-- **"Breathe-Buffalo" Air Quality Platform** (React, Node.js, Netlify)
-
-- **AI Snake Game with Q-Learning** (PyTorch, Pygame, Anaconda)
-
-- **Sorting Algorithm Analyzation Tool** (C++)
-
 
 ## 👨‍💻 Experience
 
