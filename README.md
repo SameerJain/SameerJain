@@ -1,8 +1,6 @@
 <div align="center">
 <img src="https://github.com/SameerJain/SameerJain/blob/main/final.jpg" style="width: 100%" />
 </div>  
-![Banner](image.gif)
-*Pixel art by [dandraeliss](https://www.deviantart.com/dandraeliss)*
 ## My Skill Set
 <div align="center">
   
