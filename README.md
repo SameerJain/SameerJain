@@ -78,5 +78,4 @@
 
 <div align="center">
   <em>"Do" or "Do Not," there is no "try" - Yoda 
-  <img src="https://em-content.zobj.net/thumbs/240/apple/354/yoda_1f9d9.png" width="22"/></em>
 </div>
