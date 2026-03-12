@@ -77,5 +77,6 @@
 [![wakatime](https://wakatime.com/badge/user/67f40ff0-38fa-43e0-b691-9c2b2e7c5563.svg)](https://wakatime.com/@67f40ff0-38fa-43e0-b691-9c2b2e7c5563)
 
 <div align="center">
-  <em>"Do" or "Do Not," there is no "try" - Yoda </em>
+  <em>"Do" or "Do Not," there is no "try" - Yoda 
+  <img src="https://em-content.zobj.net/thumbs/240/apple/354/yoda_1f9d9.png" width="22"/></em>
 </div>
